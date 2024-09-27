@@ -1,16 +1,15 @@
-## Hi there 👋
+## seja bem-vindos💓
 
-<!--
-**larissaandrade2009/larissaandrade2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫e-mail de contato: larissa.andrade.silva20@escola.pr.gov.br
 
-Here are some ideas to get you started:
+🖥️ Me desenvolvo na linguagem JavaScript 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍Estudo no CCM João XXIII
+
+🖋️ Utilizo este espaço para divulgar meus projetos 
+
+!{.}(https://media1.tenor.com/m/FJYXjsubH58AAAAC/kitty-kitten.gif)
+
+
+
+
