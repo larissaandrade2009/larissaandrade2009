@@ -8,7 +8,7 @@
 
 🖋️ Utilizo este espaço para divulgar meus projetos 
 
-!{.}(https://media1.tenor.com/m/FJYXjsubH58AAAAC/kitty-kitten.gif)
+![.](https://media1.tenor.com/m/FJYXjsubH58AAAAC/kitty-kitten.gif)
 
 
 
