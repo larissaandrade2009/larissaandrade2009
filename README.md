@@ -1,6 +1,8 @@
-## seja bem-vindos💓
+## Seja bem-vindos💓
 
-📫e-mail de contato: larissa.andrade.silva20@escola.pr.gov.br
+😻Me chamo Larissa Andrade da Silva
+
+📫E-mail de contato: larissa.andrade.silva20@escola.pr.gov.br
 
 🖥️ Me desenvolvo na linguagem JavaScript 
 
